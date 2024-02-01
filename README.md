@@ -1,5 +1,5 @@
 <!--Project Header -->
-<h1 align="center">Efficient Algorithms and Intractable Problems</h1>
+<h1 align="center">CS 170: Efficient Algorithms and Intractable Problems</h1>
 <h3 align="center">Notes for UC Berkeley's Fall 2023 section of CS 170</h3>
 
 <!-- Overview -->
